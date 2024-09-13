@@ -1,0 +1,6 @@
+[Flatpak Ref]
+Title=Anytype
+Name=io.anytype.anytype
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+Url=https://mhymny.github.io/anytype/
+IsRuntime=false
